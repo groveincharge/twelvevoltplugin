@@ -1,0 +1,144 @@
+  body{
+	background-color:#000066;
+	  }
+		h1{
+		font-family:'Cinzel Decorative',arial;
+		width:60%;
+		margin-left:20%;
+		text-align:center;
+		background-color:#000000;
+		color:#ffffcc;
+		font-size:38px;
+		font-weight:bold;
+		border:1px solid #000066;
+		border-radius:5px;
+		line-height:2.5em;
+		}
+		fieldset{
+		   padding:0;
+		   margin:0;
+		   }
+	 #prices fieldset{
+	      width:85%;
+				font-size:18px;
+	     }
+		 #prices fieldset input{
+	      width:100%;
+				font-size:18px;
+	     }
+		legend{
+		  color:#cc0000;
+			font-size:18px;
+		  }
+	#container form{
+	  font-family:'Cinzel Decorative',arial;
+		float:right;
+	  background-color:#cc66ff;
+	  width:50%;
+		margin-right:5%;
+	  font-size:20px;
+	  font-weight:bold;
+	}	
+	#input1{
+	   margin-top:2%;
+	   text-align:center;
+	   line-height:1.5em;
+	   width:79%;
+	   background-color:#ffffff;
+		 font-size:18px;
+	   }
+  #input2{
+	    text-align:center;
+	   line-height:1.5em;
+	   width:80%;
+	   background-color:#ffffff;
+		 font-size:18px;
+	   }
+	#input3{
+	    text-align:center;
+	   line-height:1.5em;
+	   width:88%;
+	   background-color:#ffffff;
+		 font-size:18px;
+		 font-weight:bold;
+	   }
+	#input4{
+	   line-height:2em;
+	   width:100%;
+	   background-color:#ffffff;
+		 font-size:20px;
+		 font-weight:bold;
+	   }
+		  #itemContainer{
+		 display:block;
+		  width:40%;
+			margin-left:5%;
+		    }	
+		span{
+		  color:#ffffff;
+		  }		
+			form{
+			   width:25%;
+				 height:25%;
+				 float:right;
+			     }
+		#itemContainer p{
+		     	color:#ccccff;
+		      font-size:22px;
+		      font-weight:bold;
+		      font-family:'Petit Formal Script',arial;
+		      width:100%;
+		      }		
+	#container #prices{
+	    width:50%;
+			float:right;
+		      }
+		#prices p{
+		     width:90%;
+				 margin-right:5%;
+		        }		
+	table{
+	    font-family:'Cinzel Decorative',arial;
+	    margin-bottom:2.5%;
+			margin-right:10%;
+			font-weight:bold;
+			font-size:20px;
+	    }
+#prices td{
+			     background-color:#ccccff;
+					 color:#000;
+					 margin:10px;
+					 padding:10px;
+					 text-align:right;
+					 width:250px;
+			    }	
+			 #prices tr:last-child td{
+			 background-color:#333399;
+			 color:#fff;
+			 font-weight:bold;
+			 }	
+		#prices p{
+		color:#ccccff;
+		font-size:22px;
+		font-weight:bold;
+		font-family:'Petit Formal Script',arial;
+		}	 
+	  p b{
+	     color:#cc0000;
+			 font-size:28px;
+			 font-weight:bold;
+	   }
+	 #prices p b{
+	     color:#cc0000;
+			 font-weight:bold;
+			 font-size:28px;
+	      }
+		#prices p strong{
+		    color:#cc0000;
+		    }
+		#toggle{
+		     margin-left:10%;
+		    }
+		span{
+		  font-size:18px;
+			}
